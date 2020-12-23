@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bear_classifier_charu.ipynb
+web: voila --port=$PORT --no-browser --debug --enable_nbextensions=True bear_classifier_charu.ipynb
 
